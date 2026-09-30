@@ -55,4 +55,4 @@ else:
         result_placeholder.markdown('<div class="output-box" style="opacity:.55">Translation will appear here.</div>', unsafe_allow_html=True)
 
 st.divider()
-st.caption("Seq2Seq • Custom LSTMCell • Bidirectional Encoder • Additive Attention • SentencePiece • Beam Search")
+st.caption("Deff Translate Machine | Tokenizer by SentencePiece")
