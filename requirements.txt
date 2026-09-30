@@ -2,3 +2,4 @@ streamlit
 torch
 numpy
 sentencepiece
+huggingface_hub
