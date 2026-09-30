@@ -49,7 +49,7 @@ st.markdown("""
 st.markdown("""
 <div class="hero">
     <h1>TranslateByDeff</h1>
-    <p>Indonesian → English Neural Machine Translation</p>
+    <p>Indonesian → English LSTMCell Machine Translation</p>
 </div>
 """, unsafe_allow_html=True)
 
